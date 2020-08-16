@@ -1,0 +1,21 @@
+{
+  "equipo" : [ {
+    "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+    "nombre" : "Mayra Rivas",
+    "subtitulo" : "Lic en computacion",
+    "twitter" : "@mayrarivas1",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-html-780c3.appspot.com/o/team-1.jpg?alt=media&token=ff1d1697-21a3-4d88-b81e-cacc988ab27b"
+  }, {
+    "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+    "nombre" : "Angelina B. Widow",
+    "subtitulo" : "Founder / CEO",
+    "twitter" : "@angelinawidow",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-html-780c3.appspot.com/o/team-2.jpg?alt=media&token=836eb0b3-e0f1-4d92-87b3-93890cc94e16"
+  }, {
+    "frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "nombre" : "Patrick Anderson",
+    "subtitulo" : "Director",
+    "twitter" : "@patrickanderson",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-html-780c3.appspot.com/o/team-3.jpg?alt=media&token=66690782-61e7-438e-894c-7cc915ff0cc4"
+  } ]
+}
